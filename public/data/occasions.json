@@ -1,0 +1,18 @@
+
+[
+    {
+      "occasion": "Birthday",
+      "products": [
+        { "id": 1, "name": "Birthday Cake", "image": "/images/eid2.jpg", "price": 20 },
+        { "id": 2, "name": "Gift Box", "image": "/images/gift-box.jpg", "price": 15 }
+      ]
+    },
+    {
+      "occasion": "Eid",
+      "products": [
+        { "id": 3, "name": "Eid Mubarak Mug", "image": "/images/eid-mug.jpg", "price": 10 },
+        { "id": 4, "name": "Sweet Box", "image": "/images/sweet-box.jpg", "price": 25 }
+      ]
+    }
+  ]
+  
