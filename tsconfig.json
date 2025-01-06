@@ -1,46 +1,167 @@
-{
-  "compilerOptions": {
-    "target": "ES2017",
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "esnext"
-    ],
-    "allowJs": true,
-    "skipLibCheck": true,
-    "jsx": "preserve", // For React 17+ and later
-    "strict": true,
-    "types": [
-      "react",
-      "node"
-    ],
-    "esModuleInterop": true,
-    "module": "esnext",
-    "moduleResolution": "node", // Ensures proper module resolution for Next.js
-    "resolveJsonModule": true,
-    "isolatedModules": true,
-    "incremental": true,
-    "plugins": [
-      {
-        "name": "next"
-      }
-    ],
-    "paths": {
-      "@/*": [
-        "./src/*"
-      ]
+// {
+//   "compilerOptions": {
+//     "target": "ES2017",
+//     "lib": [
+//       "dom",
+//       "dom.iterable",
+//       "esnext"
+//     ],
+//     "allowJs": true,
+//     "skipLibCheck": true,
+//     "jsx": "preserve", // For React 17+ and later
+//     "strict": true,
+//     "types": [
+//       "react",
+//       "node"
+//     ],
+//     "esModuleInterop": true,
+//     "module": "esnext",
+//     "moduleResolution": "node", // Ensures proper module resolution for Next.js
+//     "resolveJsonModule": true,
+//     "isolatedModules": true,
+//     "incremental": true,
+//     "plugins": [
+//       {
+//         "name": "next"
+//       }
+//     ],
+//     "paths": {
+//       "@/*": [
+//         "./src/*"
+//       ]
+//     },
+//     "forceConsistentCasingInFileNames": true,
+//     "noEmit": true
+//   },
+//   "include": [
+//     "next-env.d.ts",
+//     "**/*.ts",
+//     "**/*.tsx",
+//     ".next/types/**/*.ts"
+// , "next.config.mts"  ],
+//   "exclude": [
+//     "node_modules",
+//     ".next" // Exclude the .next build folder
+//   ]
+// }
+
+
+
+
+
+// / // {
+//   // //   "compilerOptions": {
+//   // //     "target": "ES2017",
+//   // //     "lib": ["dom", "dom.iterable", "esnext"],
+//   // //     "allowJs": true,
+//   // //     "skipLibCheck": true,
+//   // //     "strict": true,
+//   // //     "noEmit": true,
+//   // //     "esModuleInterop": true,
+//   // //     "module": "esnext",
+//   // //     "moduleResolution": "bundler",
+//   // //     "resolveJsonModule": true,
+//   // //     "isolatedModules": true,
+//   // //     "jsx": "preserve",
+//   // //     "incremental": true,
+//   // //     "plugins": [
+//   // //       {
+//   // //         "name": "next"
+//   // //       }
+//   // //     ],
+//   // //     "paths": {
+//   // //       "@/*": ["./src/*"]
+//   // //     }
+//   // //   },
+//   // //   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+//   // //   "exclude": ["node_modules"]
+//   // // }
+//   // {
+//   //   "compilerOptions": {
+//   //     "target": "ES2017",
+//   //     "lib": [
+//   //       "dom",
+//   //       "dom.iterable",
+//   //       "esnext"
+//   //     ],
+//   //     "allowJs": true,
+//   //     "skipLibCheck": true,
+//   //     "jsx": "preserve", // For React 17+
+//   //     "strict": true,
+//   //     "noEmit": true,
+//   //     "types": [
+//   //       "react",
+//   //       "node"
+//   //     ],
+//   //     "esModuleInterop": true,
+//   //     "module": "esnext",
+//   //     "moduleResolution": "bundler",
+//   //     "resolveJsonModule": true,
+//   //     "isolatedModules": true,
+//   //     "incremental": true,
+//   //     "plugins": [
+//   //       {
+//   //         "name": "next"
+//   //       }
+//   //     ],
+//   //     "paths": {
+//   //       "@/*": [
+//   //         "./src/*"
+//   //       ]
+//   //     }
+//   //   },
+//   //   "include": [
+//   //     "next-env.d.ts",
+//   //     "**/*.ts",
+//   //     "**/*.tsx",
+//   //     ".next/types/**/*.ts"
+//   //   ],
+//   //   "exclude": [
+//   //     "node_modules"
+//   //   ]
+//   // }
+  {
+    "compilerOptions": {
+      "target": "ES2017",
+      "lib": [
+        "dom",
+        "dom.iterable",
+        "esnext"
+      ],
+      "allowJs": true,
+      "skipLibCheck": true,
+      "jsx": "preserve",
+      "strict": true,
+      "noEmit": true,
+      "types": [
+        "react",
+        "node"
+      ],
+      "esModuleInterop": true,
+      "module": "esnext",
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "incremental": true,
+      "plugins": [
+        {
+          "name": "next"
+        }
+      ],
+      "paths": {
+        "@/*": [
+          "./src/*"
+        ]
+      },
+      "forceConsistentCasingInFileNames": true
     },
-    "forceConsistentCasingInFileNames": true,
-    "noEmit": true
-  },
-  "include": [
-    "next-env.d.ts",
-    "**/*.ts",
-    "**/*.tsx",
-    ".next/types/**/*.ts"
-, "next.config.mts"  ],
-  "exclude": [
-    "node_modules",
-    ".next" // Exclude the .next build folder
-  ]
-}
+    "include": [
+      "next-env.d.ts",
+      "**/*.ts",
+      "**/*.tsx",
+      ".next/types/**/*.ts"
+, "next.config.js"    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }   
