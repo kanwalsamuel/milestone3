@@ -1,30 +1,22 @@
 
-import Header from '@/components/Header';// Assuming the Header component is in the same directory
-import Navbar from "../components/Nav"
 import OccasionComponent from '@/components/ocasions';
-import Footer from '@/components/Footer';
-import Occasion from '@/components/Category';
 
+import Occasion from '@/components/Category';
+import CartPage from './cart/page'; // assuming CartPage is correctly routed
 
 const Page: React.FC = () => {
   return (
     <div className="min-h-screen bg-gray-100">
       {/* Render Header */}
-      <Header />
-      <Navbar/>
-      <OccasionComponent/>
-      <Occasion/>
-
-
-
     
+      <OccasionComponent />
+      <Occasion />
       
-<Footer/>
+      {/* Conditional rendering for CartPage */}
+      <CartPage />
   
-      
-
-      {/* Main Content Section */}
     
+      
     </div>
   );
 };
