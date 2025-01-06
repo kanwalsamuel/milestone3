@@ -296,7 +296,7 @@ const OccasionComponent: React.FC = () => {
               className="object-cover rounded-lg transition-transform duration-500 group-hover:animate-shutter-down"
             />
             <h3
-              className="absolute bottom-4 left-1/2 transform -translate-x-1/2 text-xl font-bold text-yellow-400 bg-black bg-opacity-50 px-4 py-2 rounded-md hover:text-orange-600 transition-all duration-300"
+              className="absolute top-3 left-1/2 transform -translate-x-1/2 text-[10px] font-bold text-yellow-400 bg-black bg-opacity-40 px-4 py-2 rounded-md hover:text-orange-600 transition-all duration-300"
             >
               Occasions Gifts
             </h3>
@@ -312,7 +312,7 @@ const OccasionComponent: React.FC = () => {
               className="object-cover rounded-lg transition-transform duration-500 group-hover:animate-shutter-down"
             />
             <h3
-              className="absolute bottom-4 left-1/2 transform -translate-x-1/2 text-xl font-bold text-yellow-400 bg-black bg-opacity-50 px-4 py-2 rounded-md hover:text-orange-400 transition-all duration-300"
+              className="absolute top-3 left-1/2 transform -translate-x-1/2 text-[10px] font-bold text-yellow-400 bg-black bg-opacity-40 px-4 py-2 rounded-md hover:text-orange-400 transition-all duration-300"
             >
               Combo Gifts
             </h3>

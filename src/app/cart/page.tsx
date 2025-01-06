@@ -66,7 +66,7 @@ const CartPage = () => {
         &gt; <span className="font-semibold text-gray-800">Your Cart</span>
       </nav>
 
-      <h1 className="text-2xl font-bold mb-4">Your Cart</h1>
+      <h1 className="text-2xl font-bold mb-4 text-gray-800">Your Cart</h1>
       <div className="grid grid-cols-1 gap-4">
         {cart.map((product, index) => (
           <div key={`${product.id}-${index}`} className="border p-4 rounded-md shadow-md">
