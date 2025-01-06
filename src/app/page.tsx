@@ -2,7 +2,7 @@
 import OccasionComponent from '@/components/ocasions';
 
 import Occasion from '@/components/Category';
-import CartPage from './cart/page'; // assuming CartPage is correctly routed
+
 
 const Page: React.FC = () => {
   return (
@@ -13,7 +13,7 @@ const Page: React.FC = () => {
       <Occasion />
       
       {/* Conditional rendering for CartPage */}
-      <CartPage />
+      
   
     
       
