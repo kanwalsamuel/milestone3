@@ -233,7 +233,7 @@ const OccasionPage: React.FC = () => {
 
   return (
     <div
-      className="font-sans p-4 sm:p-6 bg-cover bg-center bg-fixed min-h-screen relative animate-bg-zoom"
+      className="font-sans p-4 sm:p-6 bg-cover bg-center bg-fixed min-h-screen relative animate-bg-zoom-animation"
       style={{
         backgroundImage: "url('/images/bg wife.jpg')",
         backgroundPosition: "center",

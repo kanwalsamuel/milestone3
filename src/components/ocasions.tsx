@@ -3,12 +3,6 @@
 
 
 
-
-
-
-
-
-
 "use client"; // Ensure the component is rendered on the client side
 import Image from "next/image";
 import { useRouter } from "next/navigation"; // Import useRouter
@@ -49,7 +43,7 @@ const OccasionComponent: React.FC = () => {
   };
 
   return (
-    <div className="flex flex-col items-center p-4 text-white">
+    <div className="flex flex-col items-center p-4 text-white animate-shutter-down">
       {/* Section: Occasion Gifts Card with Images */}
       <div className="flex flex-col gap-4 p-6">
         {/* Top Images Row */}
@@ -139,26 +133,33 @@ const OccasionComponent: React.FC = () => {
             </h3>
           </div>
 
+
+
+
+
+
+
+
+
+          <div className="flex justify-center gap-4">
           <div
             className="relative cursor-pointer group"
-            onClick={navigateToAnniversaryGiftsPage}
+            onClick={navigateToEidGiftsPage}
           >
-           
-
-
-
-<Image
-  src="/images/bg wife.jpg" // Updated file name for consistency
-  alt="Eid Gifts"
-  width={600}
-  height={400}
-  className="object-cover h-[340px] w-[600px] rounded-lg transition-transform duration-500 group-hover:animate-shutter-down"
-/>
-<h3
+            <Image
+              src="/images/aniversarygiftbg.jpg" // Replace with your image path
+              alt="Anniversary Gifts"
+              width={600}
+              height={300}
+              className="object-cover rounded-lg transition-transform duration-500 group-hover:animate-shutter-down"
+            />
+              <h3
               className="absolute top-3 left-1/2 transform -translate-x-1/2 text-[10px] font-bold text-yellow-400 bg-black bg-opacity-40 px-4 py-2 rounded-md hover:text-orange-400 transition-all duration-300"
             >
               Anniversary Gifts
             </h3>
+          </div>
+
 
           </div>
         </div>
