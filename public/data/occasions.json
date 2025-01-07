@@ -24,7 +24,7 @@
         "price": 9500,
         "description": "The Belgian chocolate cake with imported flower bunch is a luxurious and decadent dessert. It features layers of rich, moist chocolate cake filled and frosted with luscious Belgian chocolate ganache, decorated with a stunning imported flower bunch. Perfect for any special occasion, it combines premium chocolate and rare, imported flowers for an indulgent treat.",
         "image": "/images/ariana.jpg",
-        "occasion": "Birthday"
+        "occasion": "Combo-Gifts"
       },
       {
         "id": "4",
@@ -41,6 +41,7 @@
         "description": "A delightful package featuring a 2-pound cake, 1 kg mix mithai, and a beautiful 2-dozen flower bunch with tuberose. Perfect for celebrations or as a thoughtful gift.",
         "image": "/images/Delicious-Treat.jpg",
         "occasion": "Birthday"
+        
       },
       {
         "id": "6",
@@ -59,7 +60,7 @@
         "occasion": "Birthday"
       },
       {
-        "id": "8",
+        "id": "02",
         "name": "Rosake",
         "price": 5000,
         "description": "A combination of 2 dozen fresh red roses and a scrumptious 2-pound cake. Perfect for any special occasion to express love and appreciation.",
@@ -68,17 +69,428 @@
       }
     ]
   },
+  
+
+
   {
     "occasion": "Anniversary",
     "products": [
       {
-        "id": "9",
-        "name": "Flower Bouquet",
-        "price": 40,
-        "description": "A beautiful bouquet of fresh flowers, perfect for celebrating anniversaries and special moments.",
-        "image": "/images/flower-bouquet.jpg",
+        "id": "03",
+        "name": "Birthday Cake",
+        "price": 5000,
+        "description": "Black Forest cake is a traditional German dessert that is loved all around the world. It is a layered cake made with chocolate sponge cake and whipped cream. The cake layers are soaked in cherry liqueur, which gives it a rich, sweet flavor. The chocolate sponge cake layers are made with cocoa powder, flour, sugar, and eggs. The cake is then filled with sweetened whipped cream, usually stabilized with gelatin, which keeps it firm and holds the layers together. The cake is decorated with more whipped cream and chocolate shavings. The combination of the chocolate cake and whipped cream creates a deliciously balanced flavor that is both rich and refreshing. Black Forest cake is perfect for special occasions such as birthdays, weddings, and holidays. It is also a great dessert for any time you want to indulge in a decadent treat.",
+        "image": "/images/Black-Forest-Cake.jpg",
+        "occasion": "Anniversary"
+      },
+      {
+        "id": "01",
+        "name": "Gift Hamper",
+        "price": 70,
+        "description": "Perfect gift hamper for birthdays.",
+        "image": "/images/Balloons-Combo.jpg",
+        "occasion": "Anniversary"
+      },
+      {
+        "id": "11",
+        "name": "Ariana",
+        "price": 9500,
+        "description": "The Belgian chocolate cake with imported flower bunch is a luxurious and decadent dessert. It features layers of rich, moist chocolate cake filled and frosted with luscious Belgian chocolate ganache, decorated with a stunning imported flower bunch. Perfect for any special occasion, it combines premium chocolate and rare, imported flowers for an indulgent treat.",
+        "image": "/images/ariana.jpg",
+        "occasion": "Combo-Gifts"
+      },
+      {
+        "id": "12",
+        "name": "Balloon Cake",
+        "price": 7000,
+        "description": "A festive 'balloon & cake' combination for special occasions. Includes a 2-pound cake and 10 blow balloons. Perfect for birthdays, graduations, or anniversaries.",
+        "image": "/images/Balloon-Cake.jpg",
+        "occasion": "Anniversary"
+      },
+      {
+        "id": "13",
+        "name": "Delicious Treat",
+        "price": 7000,
+        "description": "A delightful package featuring a 2-pound cake, 1 kg mix mithai, and a beautiful 2-dozen flower bunch with tuberose. Perfect for celebrations or as a thoughtful gift.",
+        "image": "/images/Delicious-Treat.jpg",
+        "occasion": "Anniversary"
+      },
+      {
+        "id": "14",
+        "name": "Basket Of Love",
+        "price": 17000,
+        "description": "A luxurious basket featuring 16 Ferrero Rocher chocolates, 3 Snickers, 3 Dairy Milk, 3 Bounty, 3 KitKat, and 2 dozen red roses. Requires a 2-day advance order.",
+        "image": "/images/Basket-Of-Love.jpg",
+        "occasion": "Anniversary"
+      },
+      {
+        "id": "15",
+        "name": "For Einstein",
+        "price": 18000,
+        "description": "A premium gift package including an imported flower bunch, a mix chocolate basket, and a 2-pound cake. Perfect for special occasions or thoughtful surprises.",
+        "image": "/images/For-Einstein.jpg",
+        "occasion": "Anniversary"
+      },
+      {
+        "id": "16",
+        "name": "Rosake",
+        "price": 5000,
+        "description": "A combination of 2 dozen fresh red roses and a scrumptious 2-pound cake. Perfect for any special occasion to express love and appreciation.",
+        "image": "/images/Rosake.jpg",
         "occasion": "Anniversary"
       }
     ]
+  },
+  
+  {
+    "occasion": "Eid",
+    "products": [
+      {
+        "id": "17",
+        "name": "Birthday Cake",
+        "price": 5000,
+        "description": "Black Forest cake is a traditional German dessert that is loved all around the world. It is a layered cake made with chocolate sponge cake and whipped cream. The cake layers are soaked in cherry liqueur, which gives it a rich, sweet flavor. The chocolate sponge cake layers are made with cocoa powder, flour, sugar, and eggs. The cake is then filled with sweetened whipped cream, usually stabilized with gelatin, which keeps it firm and holds the layers together. The cake is decorated with more whipped cream and chocolate shavings. The combination of the chocolate cake and whipped cream creates a deliciously balanced flavor that is both rich and refreshing. Black Forest cake is perfect for special occasions such as birthdays, weddings, and holidays. It is also a great dessert for any time you want to indulge in a decadent treat.",
+        "image": "/images/Black-Forest-Cake.jpg",
+        "occasion": "Eid"
+      },
+      {
+        "id": "18",
+        "name": "Gift Hamper",
+        "price": 70,
+        "description": "Perfect gift hamper for birthdays.",
+        "image": "/images/Balloons-Combo.jpg",
+        "occasion": "Eid"
+      },
+      {
+        "id": "19",
+        "name": "Ariana",
+        "price": 9500,
+        "description": "The Belgian chocolate cake with imported flower bunch is a luxurious and decadent dessert. It features layers of rich, moist chocolate cake filled and frosted with luscious Belgian chocolate ganache, decorated with a stunning imported flower bunch. Perfect for any special occasion, it combines premium chocolate and rare, imported flowers for an indulgent treat.",
+        "image": "/images/ariana.jpg",
+        "occasion": "Combo-Gifts"
+      },
+      {
+        "id": "20",
+        "name": "Balloon Cake",
+        "price": 7000,
+        "description": "A festive 'balloon & cake' combination for special occasions. Includes a 2-pound cake and 10 blow balloons. Perfect for birthdays, graduations, or anniversaries.",
+        "image": "/images/Balloon-Cake.jpg",
+        "occasion": "Eid"
+      },
+      {
+        "id": "21",
+        "name": "Delicious Treat",
+        "price": 7000,
+        "description": "A delightful package featuring a 2-pound cake, 1 kg mix mithai, and a beautiful 2-dozen flower bunch with tuberose. Perfect for celebrations or as a thoughtful gift.",
+        "image": "/images/Delicious-Treat.jpg",
+        "occasion": "Eid"
+      },
+      {
+        "id": "22",
+        "name": "Basket Of Love",
+        "price": 17000,
+        "description": "A luxurious basket featuring 16 Ferrero Rocher chocolates, 3 Snickers, 3 Dairy Milk, 3 Bounty, 3 KitKat, and 2 dozen red roses. Requires a 2-day advance order.",
+        "image": "/images/Basket-Of-Love.jpg",
+        "occasion": "Eid"
+      },
+      {
+        "id": "23",
+        "name": "For Einstein",
+        "price": 18000,
+        "description": "A premium gift package including an imported flower bunch, a mix chocolate basket, and a 2-pound cake. Perfect for special occasions or thoughtful surprises.",
+        "image": "/images/For-Einstein.jpg",
+        "occasion": "Eid"
+      },
+      {
+        "id": "24",
+        "name": "Rosake",
+        "price": 5000,
+        "description": "A combination of 2 dozen fresh red roses and a scrumptious 2-pound cake. Perfect for any special occasion to express love and appreciation.",
+        "image": "/images/Rosake.jpg",
+        "occasion": "Eid"
+      }
+    ]
+  },
+  {
+    "occasion": "Gifts",
+    "products": [
+      {
+        "id": "25",
+        "name": "Birthday Cake",
+        "price": 5000,
+        "description": "Black Forest cake is a traditional German dessert that is loved all around the world. It is a layered cake made with chocolate sponge cake and whipped cream. The cake layers are soaked in cherry liqueur, which gives it a rich, sweet flavor. The chocolate sponge cake layers are made with cocoa powder, flour, sugar, and eggs. The cake is then filled with sweetened whipped cream, usually stabilized with gelatin, which keeps it firm and holds the layers together. The cake is decorated with more whipped cream and chocolate shavings. The combination of the chocolate cake and whipped cream creates a deliciously balanced flavor that is both rich and refreshing. Black Forest cake is perfect for special occasions such as birthdays, weddings, and holidays. It is also a great dessert for any time you want to indulge in a decadent treat.",
+        "image": "/images/Black-Forest-Cake.jpg",
+        "occasion": "Eid"
+      },
+      {
+        "id": "26",
+        "name": "Gift Hamper",
+        "price": 70,
+        "description": "Perfect gift hamper for birthdays.",
+        "image": "/images/Balloons-Combo.jpg",
+        "occasion": "Eid"
+      },
+      {
+        "id": "27",
+        "name": "Ariana",
+        "price": 9500,
+        "description": "The Belgian chocolate cake with imported flower bunch is a luxurious and decadent dessert. It features layers of rich, moist chocolate cake filled and frosted with luscious Belgian chocolate ganache, decorated with a stunning imported flower bunch. Perfect for any special occasion, it combines premium chocolate and rare, imported flowers for an indulgent treat.",
+        "image": "/images/ariana.jpg",
+        "occasion": "Combo-Gifts"
+      },
+      {
+        "id": "28",
+        "name": "Balloon Cake",
+        "price": 7000,
+        "description": "A festive 'balloon & cake' combination for special occasions. Includes a 2-pound cake and 10 blow balloons. Perfect for birthdays, graduations, or anniversaries.",
+        "image": "/images/Balloon-Cake.jpg",
+        "occasion": "Eid"
+      },
+      {
+        "id": "29",
+        "name": "Delicious Treat",
+        "price": 7000,
+        "description": "A delightful package featuring a 2-pound cake, 1 kg mix mithai, and a beautiful 2-dozen flower bunch with tuberose. Perfect for celebrations or as a thoughtful gift.",
+        "image": "/images/Delicious-Treat.jpg",
+        "occasion": "Eid"
+      },
+      {
+        "id": "30",
+        "name": "Basket Of Love",
+        "price": 17000,
+        "description": "A luxurious basket featuring 16 Ferrero Rocher chocolates, 3 Snickers, 3 Dairy Milk, 3 Bounty, 3 KitKat, and 2 dozen red roses. Requires a 2-day advance order.",
+        "image": "/images/Basket-Of-Love.jpg",
+        "occasion": "Eid"
+      },
+      {
+        "id": "31",
+        "name": "For Einstein",
+        "price": 18000,
+        "description": "A premium gift package including an imported flower bunch, a mix chocolate basket, and a 2-pound cake. Perfect for special occasions or thoughtful surprises.",
+        "image": "/images/For-Einstein.jpg",
+        "occasion": "Eid"
+      },
+      {
+        "id": "32",
+        "name": "Rosake",
+        "price": 5000,
+        "description": "A combination of 2 dozen fresh red roses and a scrumptious 2-pound cake. Perfect for any special occasion to express love and appreciation.",
+        "image": "/images/Rosake.jpg",
+        "occasion": "Eid"
+      }
+    ]
+  },
+  
+  {
+    "occasion": "Combo-Gifts",
+    "products": [
+      {
+        "id": "33",
+        "name": "Birthday Cake",
+        "price": 5000,
+        "description": "Black Forest cake is a traditional German dessert that is loved all around the world. It is a layered cake made with chocolate sponge cake and whipped cream. The cake layers are soaked in cherry liqueur, which gives it a rich, sweet flavor. The chocolate sponge cake layers are made with cocoa powder, flour, sugar, and eggs. The cake is then filled with sweetened whipped cream, usually stabilized with gelatin, which keeps it firm and holds the layers together. The cake is decorated with more whipped cream and chocolate shavings. The combination of the chocolate cake and whipped cream creates a deliciously balanced flavor that is both rich and refreshing. Black Forest cake is perfect for special occasions such as birthdays, weddings, and holidays. It is also a great dessert for any time you want to indulge in a decadent treat.",
+        "image": "/images/Black-Forest-Cake.jpg",
+        "occasion": "Combo-Gifts"
+      },
+      {
+        "id": "34",
+        "name": "Gift Hamper",
+        "price": 70,
+        "description": "Perfect gift hamper for birthdays.",
+        "image": "/images/Balloons-Combo.jpg",
+        "occasion": "Combo-Gifts"
+      },
+      {
+        "id": "35",
+        "name": "Ariana",
+        "price": 9500,
+        "description": "The Belgian chocolate cake with imported flower bunch is a luxurious and decadent dessert. It features layers of rich, moist chocolate cake filled and frosted with luscious Belgian chocolate ganache, decorated with a stunning imported flower bunch. Perfect for any special occasion, it combines premium chocolate and rare, imported flowers for an indulgent treat.",
+        "image": "/images/ariana.jpg",
+        "occasion": "Combo-Gifts"
+      },
+      {
+        "id": "36",
+        "name": "Balloon Cake",
+        "price": 7000,
+        "description": "A festive 'balloon & cake' combination for special occasions. Includes a 2-pound cake and 10 blow balloons. Perfect for birthdays, graduations, or anniversaries.",
+        "image": "/images/Balloon-Cake.jpg",
+        "occasion": "Combo-Gifts"
+      },
+      {
+        "id": "37",
+        "name": "Delicious Treat",
+        "price": 7000,
+        "description": "A delightful package featuring a 2-pound cake, 1 kg mix mithai, and a beautiful 2-dozen flower bunch with tuberose. Perfect for celebrations or as a thoughtful gift.",
+        "image": "/images/Delicious-Treat.jpg",
+        "occasion": "Combo-Gifts"
+      },
+      {
+        "id": "38",
+        "name": "Basket Of Love",
+        "price": 17000,
+        "description": "A luxurious basket featuring 16 Ferrero Rocher chocolates, 3 Snickers, 3 Dairy Milk, 3 Bounty, 3 KitKat, and 2 dozen red roses. Requires a 2-day advance order.",
+        "image": "/images/Basket-Of-Love.jpg",
+        "occasion": "Combo-Gifts"
+      },
+      {
+        "id": "39",
+        "name": "For Einstein",
+        "price": 18000,
+        "description": "A premium gift package including an imported flower bunch, a mix chocolate basket, and a 2-pound cake. Perfect for special occasions or thoughtful surprises.",
+        "image": "/images/For-Einstein.jpg",
+        "occasion": "Combo-Gifts"
+      },
+      {
+        "id": "40",
+        "name": "Rosake",
+        "price": 5000,
+        "description": "A combination of 2 dozen fresh red roses and a scrumptious 2-pound cake. Perfect for any special occasion to express love and appreciation.",
+        "image": "/images/Rosake.jpg",
+        "occasion": "Combo-Gifts"
+      }
+    ]
+  },
+  
+  {
+    "occasion": "Gifts",
+    "products": [
+      {
+        "id": "41",
+        "name": "Birthday Cake",
+        "price": 5000,
+        "description": "Black Forest cake is a traditional German dessert that is loved all around the world. It is a layered cake made with chocolate sponge cake and whipped cream. The cake layers are soaked in cherry liqueur, which gives it a rich, sweet flavor. The chocolate sponge cake layers are made with cocoa powder, flour, sugar, and eggs. The cake is then filled with sweetened whipped cream, usually stabilized with gelatin, which keeps it firm and holds the layers together. The cake is decorated with more whipped cream and chocolate shavings. The combination of the chocolate cake and whipped cream creates a deliciously balanced flavor that is both rich and refreshing. Black Forest cake is perfect for special occasions such as birthdays, weddings, and holidays. It is also a great dessert for any time you want to indulge in a decadent treat.",
+        "image": "/images/Black-Forest-Cake.jpg",
+        "occasion": "Gifts"
+      },
+      {
+        "id": "42",
+        "name": "Gift Hamper",
+        "price": 70,
+        "description": "Perfect gift hamper for birthdays.",
+        "image": "/images/Balloons-Combo.jpg",
+        "occasion": "Gifts"
+      },
+      {
+        "id": "43",
+        "name": "Ariana",
+        "price": 9500,
+        "description": "The Belgian chocolate cake with imported flower bunch is a luxurious and decadent dessert. It features layers of rich, moist chocolate cake filled and frosted with luscious Belgian chocolate ganache, decorated with a stunning imported flower bunch. Perfect for any special occasion, it combines premium chocolate and rare, imported flowers for an indulgent treat.",
+        "image": "/images/ariana.jpg",
+        "occasion": "Gifts"
+      },
+      {
+        "id": "44",
+        "name": "Balloon Cake",
+        "price": 7000,
+        "description": "A festive 'balloon & cake' combination for special occasions. Includes a 2-pound cake and 10 blow balloons. Perfect for birthdays, graduations, or anniversaries.",
+        "image": "/images/Balloon-Cake.jpg",
+        "occasion": "Gifts"
+      },
+      {
+        "id": "45",
+        "name": "Delicious Treat",
+        "price": 7000,
+        "description": "A delightful package featuring a 2-pound cake, 1 kg mix mithai, and a beautiful 2-dozen flower bunch with tuberose. Perfect for celebrations or as a thoughtful gift.",
+        "image": "/images/Delicious-Treat.jpg",
+        "occasion": "Gifts"
+      },
+      {
+        "id": "46",
+        "name": "Basket Of Love",
+        "price": 17000,
+        "description": "A luxurious basket featuring 16 Ferrero Rocher chocolates, 3 Snickers, 3 Dairy Milk, 3 Bounty, 3 KitKat, and 2 dozen red roses. Requires a 2-day advance order.",
+        "image": "/images/Basket-Of-Love.jpg",
+        "occasion": "Gifts"
+      },
+      {
+        "id": "47",
+        "name": "For Einstein",
+        "price": 18000,
+        "description": "A premium gift package including an imported flower bunch, a mix chocolate basket, and a 2-pound cake. Perfect for special occasions or thoughtful surprises.",
+        "image": "/images/For-Einstein.jpg",
+        "occasion": "Gifts"
+      },
+      {
+        "id": "48",
+        "name": "Rosake",
+        "price": 5000,
+        "description": "A combination of 2 dozen fresh red roses and a scrumptious 2-pound cake. Perfect for any special occasion to express love and appreciation.",
+        "image": "/images/Rosake.jpg",
+        "occasion": "Gifts"
+      }
+    ]
+  },
+  {
+    "occasion": "Surprises",
+    "products": [
+      {
+        "id": "49",
+        "name": "Birthday Cake",
+        "price": 5000,
+        "description": "Black Forest cake is a traditional German dessert that is loved all around the world. It is a layered cake made with chocolate sponge cake and whipped cream. The cake layers are soaked in cherry liqueur, which gives it a rich, sweet flavor. The chocolate sponge cake layers are made with cocoa powder, flour, sugar, and eggs. The cake is then filled with sweetened whipped cream, usually stabilized with gelatin, which keeps it firm and holds the layers together. The cake is decorated with more whipped cream and chocolate shavings. The combination of the chocolate cake and whipped cream creates a deliciously balanced flavor that is both rich and refreshing. Black Forest cake is perfect for special occasions such as birthdays, weddings, and holidays. It is also a great dessert for any time you want to indulge in a decadent treat.",
+        "image": "/images/Black-Forest-Cake.jpg",
+        "occasion": "Surprises"
+      },
+      {
+        "id": "50",
+        "name": "Gift Hamper",
+        "price": 70,
+        "description": "Perfect gift hamper for birthdays.",
+        "image": "/images/Balloons-Combo.jpg",
+        "occasion": "Surprises"
+      },
+      {
+        "id": "51",
+        "name": "Ariana",
+        "price": 9500,
+        "description": "The Belgian chocolate cake with imported flower bunch is a luxurious and decadent dessert. It features layers of rich, moist chocolate cake filled and frosted with luscious Belgian chocolate ganache, decorated with a stunning imported flower bunch. Perfect for any special occasion, it combines premium chocolate and rare, imported flowers for an indulgent treat.",
+        "image": "/images/ariana.jpg",
+        "occasion": "Surprises"
+      },
+      {
+        "id": "52",
+        "name": "Balloon Cake",
+        "price": 7000,
+        "description": "A festive 'balloon & cake' combination for special occasions. Includes a 2-pound cake and 10 blow balloons. Perfect for birthdays, graduations, or anniversaries.",
+        "image": "/images/Balloon-Cake.jpg",
+        "occasion": "Surprises"
+      },
+      {
+        "id": "53",
+        "name": "Delicious Treat",
+        "price": 7000,
+        "description": "A delightful package featuring a 2-pound cake, 1 kg mix mithai, and a beautiful 2-dozen flower bunch with tuberose. Perfect for celebrations or as a thoughtful gift.",
+        "image": "/images/Delicious-Treat.jpg",
+        "occasion": "Surprises"
+      },
+      {
+        "id": "54",
+        "name": "Basket Of Love",
+        "price": 17000,
+        "description": "A luxurious basket featuring 16 Ferrero Rocher chocolates, 3 Snickers, 3 Dairy Milk, 3 Bounty, 3 KitKat, and 2 dozen red roses. Requires a 2-day advance order.",
+        "image": "/images/Basket-Of-Love.jpg",
+        "occasion": "Surprises"
+      },
+      {
+        "id": "55",
+        "name": "For Einstein",
+        "price": 18000,
+        "description": "A premium gift package including an imported flower bunch, a mix chocolate basket, and a 2-pound cake. Perfect for special occasions or thoughtful surprises.",
+        "image": "/images/For-Einstein.jpg",
+        "occasion": "Surprises"
+      },
+      {
+        "id": "56",
+        "name": "Rosake",
+        "price": 5000,
+        "description": "A combination of 2 dozen fresh red roses and a scrumptious 2-pound cake. Perfect for any special occasion to express love and appreciation.",
+        "image": "/images/Rosake.jpg",
+        "occasion": "Surprises"
+      }
+    ]
   }
-]
+  
+
+      
+    ]
+  

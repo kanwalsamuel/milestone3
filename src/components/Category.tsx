@@ -11,6 +11,8 @@ const Occasion: React.FC = () => {
     { name: "Surprises", image: "/images/surprises.jpg" },
     { name: "Eid", image: "/images/eid.jpeg" },
     { name: "Anniversary", image: "/images/aniversary bg.jpg" }
+    
+    
   ];
 
   // Handle navigation to the Occasion page
